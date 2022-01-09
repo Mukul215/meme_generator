@@ -12,7 +12,7 @@ const Header = () => {
         </div>
       </div>
       <div className='absolute right-10'>
-        <p className='text-white text-sm'>React Course - Project 3</p>
+        <p className='text-white text-sm'>Generate your own meme</p>
       </div>
     </div>
   )
